@@ -1,4 +1,4 @@
-# Sales Dashboard Analysis (Excel)
+# Sales Dashboard (Excel)
 
 ## About This Project
 This project is an interactive Sales Dashboard built in Microsoft Excel to analyze sales performance across products, regions, and sales representatives.
@@ -6,7 +6,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel to analy
 The dashboard helps users monitor key business metrics and gain insights into sales trends through interactive visualizations and filters.
 
 ## What I Did in This Project
-- Cleaned and prepared the sales dataset
+- prepared the sales dataset
 - Created Pivot Tables for data analysis
 - Built KPI cards to display important business metrics
 - Designed an interactive dashboard layout
